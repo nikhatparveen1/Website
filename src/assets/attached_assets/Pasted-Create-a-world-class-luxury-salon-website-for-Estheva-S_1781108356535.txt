@@ -1,0 +1,261 @@
+Create a world-class luxury salon website for Estheva Studio, Patna.
+
+Business Information:
+
+* Name: Estheva Studio
+* Location: Fraser Road, Patna, Bihar
+* Services: Nail Art, Nail Extensions, Bridal Makeup, Hair Styling, Hair Color, Hair Spa, Facials, Skin Care, Grooming, Spa Services
+* Contact: Integrate real phone number and WhatsApp booking
+* Use actual salon photos, actual videos, actual service images, actual branding assets, and actual social media content provided by the business.
+
+GOAL:
+This website must look better than 95% of salon websites in India and create an immediate luxury impression that increases appointment bookings.
+
+DESIGN DIRECTION:
+
+Visual Style:
+
+* Ultra-premium luxury
+* Apple-level cleanliness
+* Dior Beauty elegance
+* Sephora-style service presentation
+* High-end spa atmosphere
+
+Color Palette:
+
+* Matte Black
+* Champagne Gold
+* Ivory White
+* Soft Beige
+
+Typography:
+
+* Elegant luxury serif for headings
+* Modern clean sans-serif for content
+
+ANIMATION SYSTEM:
+
+* Cinematic page loading sequence
+* Smooth page transitions
+* Scroll-triggered reveals
+* Floating luxury effects
+* Elegant hover interactions
+* Image zoom effects
+* Premium micro-interactions
+* Motion without performance loss
+
+HOMEPAGE
+
+SECTION 1:
+Luxury Hero Experience
+
+Features:
+
+* Fullscreen video background using actual salon footage
+* Cinematic text animations
+* Floating gold accent elements
+* Premium booking CTA
+
+Headline:
+"Patna's Destination For Luxury Beauty & Transformation"
+
+Subheadline:
+Luxury nail artistry, premium hair services, bridal excellence, and personalized beauty experiences.
+
+Buttons:
+
+* Book Appointment
+* Explore Services
+* View Gallery
+
+SECTION 2:
+Luxury Brand Introduction
+
+Display:
+
+* Beautiful studio imagery
+* Short brand story
+* Professional presentation
+
+Highlight:
+
+* Premium environment
+* Skilled professionals
+* Luxury experience
+* Personalized beauty solutions
+
+SECTION 3:
+Interactive Services Showcase
+
+Create luxurious service cards for:
+
+* Bridal Makeup
+* HD Makeup
+* Nail Art
+* Nail Extensions
+* Hair Styling
+* Hair Color
+* Hair Spa
+* Facials
+* Skin Treatments
+* Spa Services
+* Grooming
+
+Each card should:
+
+* Animate on hover
+* Open detailed service view
+* Show service gallery
+* Include booking CTA
+
+SECTION 4:
+Signature Nail Art Gallery
+
+Features:
+
+* Pinterest-style luxury grid
+* Category filtering
+* Full-screen viewer
+* Smooth animations
+
+Categories:
+
+* Nail Extensions
+* Bridal Nails
+* Gel Nails
+* Custom Nail Art
+* Premium Designs
+
+SECTION 5:
+Bridal Transformation Showcase
+
+Features:
+
+* Before and After sliders
+* Transformation stories
+* Premium image gallery
+* Video highlights
+
+Present bridal work as luxury portfolio pieces.
+
+SECTION 6:
+Instagram Style Beauty Feed
+
+Display:
+
+* Real salon photos
+* Real transformations
+* Reels previews
+* Social proof
+
+SECTION 7:
+Client Reviews Experience
+
+Create a luxury review wall.
+
+Features:
+
+* Animated review cards
+* Star ratings
+* Video testimonials
+* Customer stories
+
+SECTION 8:
+Meet The Experts
+
+Professional team section.
+
+Features:
+
+* Staff portraits
+* Expertise areas
+* Specializations
+* Experience details
+
+SECTION 9:
+Virtual Salon Tour
+
+Create immersive experience using:
+
+* Studio videos
+* Environment photos
+* Interactive gallery
+* Luxury presentation
+
+SECTION 10:
+Booking Experience
+
+Premium booking system.
+
+Fields:
+
+* Name
+* Phone
+* Email
+* Service
+* Date
+* Time
+* Notes
+
+Features:
+
+* WhatsApp Integration
+* Instant Confirmation
+* Appointment Request System
+
+SECTION 11:
+Location & Contact
+
+Display:
+
+* Interactive Google Maps
+* Directions
+* Contact Information
+* Business Hours
+
+ADDITIONAL PAGES
+
+1. About Estheva
+2. Services
+3. Bridal Portfolio
+4. Nail Art Portfolio
+5. Gallery
+6. Beauty Blog
+7. Contact
+
+PREMIUM FEATURES
+
+* WhatsApp Floating Button
+* Sticky Luxury Navigation
+* Mobile-first design
+* Google Reviews Integration
+* SEO Optimization
+* Schema Markup
+* Performance Optimization
+* Accessibility Support
+* Sitemap Generation
+* Google Analytics Integration
+
+SEO TARGETS
+
+Rank for:
+
+* Best Salon in Patna
+* Best Nail Salon in Patna
+* Bridal Makeup Artist in Patna
+* Nail Extensions in Patna
+* Hair Spa in Patna
+* Luxury Salon Patna
+* Beauty Studio Patna
+
+TECH STACK
+
+* Next.js
+* TypeScript
+* Tailwind CSS
+* Framer Motion
+* GSAP for premium animations
+* Optimized image delivery
+* Production-ready deployment
+
+The final result should feel like a ₹2 lakh+ custom luxury salon website and immediately communicate trust, elegance, professionalism, and premium beauty services.

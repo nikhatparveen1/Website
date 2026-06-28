@@ -26,7 +26,7 @@ A world-class luxury salon website for **Estheva Studio**, Patna's premier beaut
 
 ```bash
 # Navigate to the project directory
-cd artifacts/estheva-studio
+cd Website
 
 # Install dependencies
 npm install
@@ -53,10 +53,11 @@ The app will open at **http://localhost:5173**
 ## 🏗️ Project Structure
 
 ```
-artifacts/estheva-studio/
+Website/
 ├── src/
 │   ├── assets/
-│   │   └── images/          # Local image assets (nail, bridal, hair)
+│   │   ├── images/          # Local image assets (nail, bridal, hair)
+│   │   └── attached_assets/ # Real salon photos (interior, entrance, hair station, spa)
 │   ├── components/
 │   │   ├── layout/          # Navbar, Footer, FloatingWhatsApp
 │   │   └── ui/              # 55 shadcn/ui components (Radix-based)
@@ -66,6 +67,7 @@ artifacts/estheva-studio/
 │   ├── App.tsx              # Router + layout wrapper
 │   ├── index.css            # Global styles + Tailwind v4 theme
 │   └── main.tsx             # React entry point
+├── public/                  # Favicon and static files
 ├── index.html               # HTML entry point
 ├── vite.config.ts           # Vite configuration
 ├── tsconfig.json            # TypeScript configuration
@@ -80,11 +82,11 @@ artifacts/estheva-studio/
 The app uses two sources for images:
 
 1. **`src/assets/images/`** — AI-generated premium salon images (nail art, bridal, hair)
-2. **`../../attached_assets/`** — Real salon photos (interior, entrance, hair station, spa)
+2. **`src/assets/attached_assets/`** — Real salon photos (interior, entrance, hair station, spa)
 
 Both are aliased in Vite and TypeScript:
 - `@/assets/images/...` → `src/assets/images/`
-- `@assets/...` → `../../attached_assets/`
+- `@assets/...` → `src/assets/attached_assets/`
 
 ---
 

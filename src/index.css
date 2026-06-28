@@ -188,7 +188,7 @@
 }
 
 @layer utilities {
-  /* Replit-compatible hover elevation utility */
+  /* Custom hover elevation utility */
   .hover-elevate {
     transition: box-shadow 0.2s ease, transform 0.2s ease;
   }
